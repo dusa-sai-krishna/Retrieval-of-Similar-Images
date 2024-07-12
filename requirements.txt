@@ -1,0 +1,13 @@
+# Download pytorch manually
+numpy
+pandas
+matplotlib
+seaborn
+einops
+torchsummary
+tqdm
+transformers
+datasets
+accelerate
+evaluate
+chromadb
